@@ -1,0 +1,133 @@
+
+header ul {
+    display: flex;
+    justify-content: space-between;
+}
+header i{
+    padding-right: 9px;
+    font-size: 20px;
+}
+header p{
+    padding-right: 26px;
+}
+.main-part{
+    text-align: center;
+}
+.main-part a{
+    font-size: 20px;
+    color: rgb(140, 112, 59);
+    text-decoration: none;
+    padding-right: 26px;
+    padding-left: 48px;
+    font-family: futura-lt-w01-light,sans-serif;
+}
+.main-part h1{
+    color: rgb(140, 112, 59);
+    padding: 22px;
+    font-size: 55px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: normal;
+}
+.main-part img{
+    height: 91vh;
+}
+.second-part .row1{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.second-part .row1 p h4{
+    padding-left: 10px;
+}
+.second-part .row1 img{
+    height: 384px;
+    width: 384px;
+    padding-left: 215px;
+    padding-top: 10px;
+}
+.second-part h4{
+    padding-left: 75px;
+    padding-right: 115px;
+    color: rgb(140, 112, 59);
+    font-size: 17px;
+    font-weight: normal;
+    font-family: futura-lt-w01-light,sans-serif;
+}
+.second-part p{
+    padding-left: 10px;
+    padding-right: 70px;
+    text-align: center;
+    font-family: futura-lt-w01-light,sans-serif;
+}
+
+.third-part .row2{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.third-part .row2 p h4{
+    padding-left: 10px;
+}
+.third-part .row2 img{
+    height: 375px;
+    width: 384px;
+    padding-right: 167px;
+}
+.third-part h4{
+    padding-left: 220px;
+    padding-right: 115px;
+    color: rgb(140, 112, 59);
+    font-size: 18px;
+    font-weight: normal;
+    font-family: futura-lt-w01-light,sans-serif;
+}
+.third-part p{
+    padding-left: 119px;
+    padding-right: 70px;
+    text-align: center;
+    font-family: futura-lt-w01-light,sans-serif;
+}
+footer .row .col{
+    background-color: rgb(175 147 95);
+    color: white;
+    font-family: futura-lt-w01-light,sans-serif;
+}
+footer .row .contact1{
+    padding-bottom: 10px;
+    font-size: 15px;
+    padding-top: 20px;
+    color: rgb(137 132 132);
+}
+footer .row .col1{
+    padding-bottom: 20px;
+}
+footer .row .col3{
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+footer .row .col{
+    padding-left: 164px;
+}
+input{
+    padding: 38px 24px;
+    margin-top: 5px;
+    margin-left: 800px;
+    margin-bottom: 10px;
+}
+.col4{
+    margin-left: 800px;
+}
+/* button{
+    background-color: rgb(175 147 95);
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 27px;
+} */
+.col5{
+    border: 1px solid black;
+    font-size: 17px;
+    color: white;
+    padding: 2px;
+    text-decoration: none;
+    border-radius: 6px
+}

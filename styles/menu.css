@@ -1,0 +1,75 @@
+header ul {
+    display: flex;
+    justify-content: space-between;
+}
+header i{
+    padding-right: 9px;
+    font-size: 20px;
+}
+header p{
+    padding-right: 26px;
+}
+.main-part{
+    text-align: center;
+}
+.main-part a{
+    font-size: 20px;
+    color: rgb(140, 112, 59);
+    text-decoration: none;
+    padding-right: 26px;
+    padding-left: 48px;
+    font-family: futura-lt-w01-light,sans-serif;
+}
+.main-part h1{
+    color: rgb(140, 112, 59);
+    padding: 22px;
+    font-size: 55px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: normal;
+}
+.main-part img{
+    height: 100vh;
+}
+.second-part .container img{
+    width: 721px;
+    height: 997px;
+    padding-left: 271px;
+}
+footer .row .col{
+    background-color: rgb(175 147 95);
+    color: white;
+    font-family: futura-lt-w01-light,sans-serif;
+}
+footer .row .contact1{
+    padding-bottom: 10px;
+    font-size: 15px;
+    padding-top: 20px;
+    color: rgb(137 132 132);
+}
+footer .row .col1{
+    padding-bottom: 20px;
+}
+footer .row .col3{
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+footer .row .col{
+    padding-left: 164px;
+}
+input{
+    padding: 38px 24px;
+    margin-top: 5px;
+    margin-left: 800px;
+    margin-bottom: 10px;
+}
+.col4{
+    margin-left: 800px;
+}
+.col5{
+    border: 1px solid black;
+    font-size: 17px;
+    color: white;
+    padding: 2px;
+    text-decoration: none;
+    border-radius: 6px
+}
